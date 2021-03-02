@@ -1,3 +1,6 @@
 [submodule "sbox.vue.start"]
 	path = sbox.vue.start
 	url = https://github.com/ksawl/sbox.vue.start
+[submodule "vue-webgulp"]
+	path = vue-webgulp
+	url = https://github.com/threeaccents/vue-webgulp
