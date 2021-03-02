@@ -4,3 +4,6 @@
 [submodule "vue-webgulp"]
 	path = vue-webgulp
 	url = https://github.com/threeaccents/vue-webgulp
+[submodule "tpl.webpack_landing"]
+	path = tpl.webpack_landing
+	url = https://github.com/ksawl/tpl.webpack_landing
