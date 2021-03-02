@@ -7,3 +7,6 @@
 [submodule "tpl.webpack_landing"]
 	path = tpl.webpack_landing
 	url = https://github.com/ksawl/tpl.webpack_landing
+[submodule "test-frontend"]
+	path = test-frontend
+	url = https://github.com/OWIII/test-frontend
